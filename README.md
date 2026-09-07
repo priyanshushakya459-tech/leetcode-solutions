@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -35,4 +36,5 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
