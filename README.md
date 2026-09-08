@@ -71,4 +71,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
