@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0169-majority-element) |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
