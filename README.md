@@ -48,11 +48,13 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -91,9 +93,14 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
