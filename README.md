@@ -59,6 +59,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -95,6 +97,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
