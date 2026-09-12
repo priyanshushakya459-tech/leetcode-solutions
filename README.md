@@ -86,6 +86,7 @@
 | [0050-powx-n](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -93,6 +94,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
