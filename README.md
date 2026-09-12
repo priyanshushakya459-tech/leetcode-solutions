@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
