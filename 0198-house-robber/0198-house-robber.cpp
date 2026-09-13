@@ -2,16 +2,20 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
       int n=nums.size();
-      vector<int>dp(n,0);
-     dp[0]=nums[0];
-      if(n==1)return dp[0];
-      dp[1]=max(nums[0],nums[1]);
-      if(n==2)return dp[1];
-    
+     int prev1=0;
+
+int prev2=0;
+     prev1=nums[0];
+      if(n==1)return prev1;
+      prev2=max(nums[0],nums[1]);
+      if(n==2)return prev2;
+    int ans=0;
       for(int i=2;i<n;i++){
-        dp[i]=max(nums[i]+dp[i-2],dp[i-1]);
+        ans=max(nums[i]+prev1,prev2);
+        prev1=prev2;
+        prev2=ans;
       }
      
-      return max(dp[n-2],dp[n-1]);
+      return ans;
     }
 };
