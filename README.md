@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0143-reorder-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -150,4 +152,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
