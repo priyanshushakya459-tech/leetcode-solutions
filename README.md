@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -155,6 +156,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Stack
