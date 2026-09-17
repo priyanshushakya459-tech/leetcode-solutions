@@ -155,6 +155,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Stack
 |  |
