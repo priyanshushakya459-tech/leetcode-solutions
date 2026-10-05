@@ -21,10 +21,10 @@ public:
 
 int n = 2;
             temp = lastprev->next;
-         while(n){
+         while(n--){
             if(!temp)return ans->next;
             temp=temp->next;
-            n--;
+            
          }
  ListNode* curr = lastprev->next;
             ListNode* pre = temp;
