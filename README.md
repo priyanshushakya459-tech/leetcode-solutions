@@ -21,12 +21,14 @@
 | [0503-next-greater-element-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -188,4 +191,8 @@
 | [0402-remove-k-digits](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
