@@ -13,6 +13,7 @@ public:
             mc = max(mc, m[s[j]]);
 
             while ((j - i + 1) - mc > k) {
+                
                 m[s[i]]--;
                 i++;
             }
