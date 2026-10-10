@@ -68,6 +68,7 @@
 | [0344-reverse-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -194,5 +196,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
