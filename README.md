@@ -166,18 +166,21 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -236,4 +239,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
