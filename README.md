@@ -160,14 +160,17 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -196,6 +199,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
