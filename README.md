@@ -171,6 +171,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -189,6 +190,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -204,6 +206,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -291,6 +294,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
