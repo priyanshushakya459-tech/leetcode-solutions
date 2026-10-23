@@ -174,6 +174,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -301,6 +304,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
