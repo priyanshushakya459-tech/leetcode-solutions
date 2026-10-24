@@ -84,6 +84,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
