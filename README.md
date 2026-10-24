@@ -190,6 +190,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -208,6 +209,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -229,6 +231,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -309,4 +312,5 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
