@@ -21,6 +21,7 @@
 | [0503-next-greater-element-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0905-sort-array-by-parity](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -57,6 +58,7 @@
 | [0633-sum-of-square-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -72,6 +74,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
