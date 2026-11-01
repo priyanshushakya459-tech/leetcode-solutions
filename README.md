@@ -27,6 +27,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -122,11 +123,13 @@
 | [0930-binary-subarrays-with-sum](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
