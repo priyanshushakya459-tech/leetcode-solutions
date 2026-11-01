@@ -33,6 +33,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
@@ -124,6 +125,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -282,6 +284,7 @@
 | [0143-reorder-list](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
