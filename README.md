@@ -32,6 +32,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2706-buy-two-chocolates](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -73,6 +74,7 @@
 | [0402-remove-k-digits](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [2706-buy-two-chocolates](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -81,6 +83,7 @@
 | [0455-assign-cookies](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2706-buy-two-chocolates](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
