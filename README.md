@@ -103,6 +103,7 @@
 | [0402-remove-k-digits](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1544-make-the-string-great) |
@@ -307,6 +308,7 @@
 | [0735-asteroid-collision](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
