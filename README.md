@@ -45,6 +45,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -361,4 +362,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
