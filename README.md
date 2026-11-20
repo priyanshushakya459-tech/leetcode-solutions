@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0039-combination-sum) |
@@ -127,6 +128,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
