@@ -19,6 +19,7 @@
 | [0213-house-robber-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -131,6 +133,7 @@
 | [0001-two-sum](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshushakya459-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
